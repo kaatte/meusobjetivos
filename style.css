@@ -56,8 +56,8 @@ body{
     display: block;
   }
   .ativo{
-    background-color: #C568CC;
-    border-bottom: 4px saddlebrown;
+    background-color: #ee00ff;
+    border-bottom: 4px rgb(255, 130, 41);
   }
   @media screen and (min-width: 768px) {
     .botoes{
